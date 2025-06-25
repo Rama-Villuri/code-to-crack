@@ -28,6 +28,7 @@ Like physical exercise strengthens the body, solving algorithmic problems daily 
 ---
 
 ## 🧩 Directory Structure
+
 ├── arrays/
 ├── strings/
 ├── recursion/
