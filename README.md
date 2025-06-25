@@ -56,23 +56,6 @@ Like physical exercise strengthens the body, solving algorithmic problems daily 
 
 ---
 
-## 🧪 Sample Format
-
-```go
-// File: arrays/two_sum.go
-
-package arrays
-
-func TwoSum(nums []int, target int) []int {
-    seen := make(map[int]int)
-    for i, num := range nums {
-        if j, ok := seen[target-num]; ok {
-            return []int{j, i}
-        }
-        seen[num] = i
-    }
-    return nil
-}
 
 📚 Learning Focus
 
