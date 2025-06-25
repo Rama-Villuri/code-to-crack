@@ -49,20 +49,6 @@ Like physical exercise strengthens the body, solving algorithmic problems daily 
 
 ---
 
-## 📈 Progress Tracker
-
-| Day | Title | Topic | Status |
-|-----|-------|-------|--------|
-| 1   | Two Numbers Add Up | Arrays | ✅ Done |
-| 2   | Unique Characters | Strings | ✅ Done |
-| 3   | Fibonacci Memoized | Dynamic Programming | ✅ Done |
-| 4   | ... | ... | 🔄 In Progress |
-
-> _Click into folders to view source code and logic._
-
----
-
-
 📚 Learning Focus
 
 While solving problems, emphasis is placed on:
