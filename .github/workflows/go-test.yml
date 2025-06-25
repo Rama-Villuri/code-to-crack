@@ -2,10 +2,9 @@ name: 🧪 Go CI - Test & Lint
 
 on:
   push:
-    branches: 
-      -- '**'
+    branches: [ "**" ]
   pull_request:
-    branches: [ main ]
+    branches: [ "**" ]
 
 jobs:
   build:
