@@ -12,5 +12,8 @@ func SquareRoot(x float64) float64 {
 	if x < 0 {
 		panic("cannot calculate square root of a negative number")
 	}
+	if x == 0 {
+		return 0
+	}
 	return math.Sqrt(x)
 }
