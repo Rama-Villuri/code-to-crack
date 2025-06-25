@@ -1,5 +1,8 @@
 # code-to-crack
 
+## 🔥 My Coding Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rama-Villuri&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 # 🧠 code-to-crack
 
 Welcome to **code-to-crack** — a personal log of problem-solving workouts designed to challenge, stretch, and improve reasoning and coding skills through consistent daily practice.
