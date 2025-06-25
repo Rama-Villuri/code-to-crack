@@ -30,8 +30,10 @@ Like physical exercise strengthens the body, solving algorithmic problems daily 
 
 ---
 
-## 🧩 Directory Structure
+## 📂 Directory Structure
 
+```text
+.
 ├── arrays/
 ├── strings/
 ├── recursion/
